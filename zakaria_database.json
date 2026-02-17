@@ -1,0 +1,75 @@
+{
+    "qa_data": {
+        "": ""
+    },
+    "pdf_text": "\ud83d\udcda xogta tababarka ai (20 su'aal iyo jawaab) 1. su'aal: waa maxay caasimadda dalka soomaaliya? jawaab: caasimadda soomaaliya waa muqdisho. 2. su'aal: immisa gobol ayay ka kooban tahay soomaaliya? jawaab: soomaaliya waxay ka kooban tahay 18 gobol. 3. su'aal: waa kuwee shanta dal ee leh codka diidmada qayaxan (veto)? jawaab: waa usa, china, russia, uk, iyo france. 4. su'aal: waa maxay xubinta ugu weyn jirka bini-aadamka? jawaab: xubinta ugu weyn waa maqaarka (skin). 5. su'aal: waa kuma ninka ugu qanisan caalamka sanadka 2026? jawaab: waa elon musk (inkastoo hantidu isbedbeddesho). 6. su'aal: immisa xubnood ayuu ka kooban yahay wadnaha bini-aadamka? jawaab: wadnuhu wuxuu ka kooban yahay 4 qaybood. 7. su'aal: waa maxay meeraha ugu dhow qorraxta? jawaab: meeraha ugu dhow waa waxaracad (mercury). 8. su'aal: waa maxay qaaradda ugu weyn adduunka? jawaab: qaaradda ugu weyn waa aasiya (asia). 9. su'aal: waa maxay buurta ugu dheer adduunka? jawaab: buurta ugu dheer waa mount everest. 10. su'aal: waa maxay curiyaha ugu badan ee hawada aan neefsano? jawaab: waa nitrogen (oo ah 78%). 11. su'aal: waa kuwee labada magaalo ee ugu muhiimsan islaamka? jawaab: waa makka iyo madiina. 12. su'aal: goormay soomaaliya qaadatay xornimada? jawaab: soomaaliya waxay xornimada qaadatay 1-dii luulyo 1960. 13. su'aal: waa maxay webiga ugu dheer adduunka? jawaab: webiga ugu dheer waa webiga nile (niil). 14. su'aal: waa maxay luqadda loogu hadalkooda badan yahay adduunka? jawaab: waa luqadda mandarin chinese. 15. su'aal: waa maxay birta ugu qaalisan adduunka? jawaab: waa birta loo yaqaano rhodium. 16. su'aal: immisa lafood ayuu ka kooban yahay qofka qaangaarka ah? jawaab: waxay ka kooban tahay 206 lafood. 17. su'aal: waa kuwee labada badood ee ku teedsan soomaaliya? jawaab: waa badweynta hindiya iyo gacanka cadmeed. 18. su'aal: waa maxay xawaaraha iftiinka? jawaab: iftiinku wuxuu ku socdaa 300,000 km ilbidhiqsigiiba. 19. su'aal: waa maxay dalka ugu dadka badan adduunka hadda? jawaab: waa dalka india. 20. su'aal: waa maxay summadda kiimikada ee biyaha? jawaab: summadda biyuhu waa h2o.",
+    "registered_emails": [
+        "zakicade6783@gmail.com"
+    ],
+    "chat_history": [
+        {
+            "role": "user",
+            "content": "Waa maxay xawaaraha iftiinka?"
+        },
+        {
+            "role": "assistant",
+            "content": "Iftiinku wuxuu ku socdaa 300,000 km ilbidhiqsigiiba. 19."
+        },
+        {
+            "role": "user",
+            "content": "Waa maxay meeraha ugu dhow qorraxta?"
+        },
+        {
+            "role": "assistant",
+            "content": "Meeraha ugu dhow waa waxaracad (mercury). 8."
+        },
+        {
+            "role": "user",
+            "content": "Waa kuma ninka ugu qanisan caalamka sanadka 2026?"
+        },
+        {
+            "role": "assistant",
+            "content": "Waa elon musk (inkastoo hantidu isbedbeddesho). 6."
+        },
+        {
+            "role": "user",
+            "content": "Waa maxay meeraha ugu dhow qorraxta?"
+        },
+        {
+            "role": "assistant",
+            "content": "Meeraha ugu dhow waa waxaracad (mercury). 8."
+        },
+        {
+            "role": "user",
+            "content": "Waa maxay curiyaha ugu badan ee hawada aan neefsano?"
+        },
+        {
+            "role": "assistant",
+            "content": "Waa nitrogen (oo ah 78%). 11."
+        },
+        {
+            "role": "user",
+            "content": "Waa maxay dalka ugu dadka badan adduunka hadda"
+        },
+        {
+            "role": "assistant",
+            "content": "\ud83d\udca1 Waa dalka india. 20."
+        },
+        {
+            "role": "user",
+            "content": "Waa maxay dalka ugu dadka badan adduunka hadda"
+        },
+        {
+            "role": "assistant",
+            "content": "Waa dalka india. 20."
+        },
+        {
+            "role": "user",
+            "content": "Goormay Soomaaliya qaadatay xornimada?"
+        },
+        {
+            "role": "assistant",
+            "content": "Soomaaliya waxay xornimada qaadatay 1-dii luulyo 1960. 13."
+        }
+    ]
+}
